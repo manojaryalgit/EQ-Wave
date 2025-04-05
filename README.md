@@ -22,13 +22,12 @@ We use a second-order finite-difference approximation to numerically evolve this
 
 ![Wavefield](wave_propagation.gif)
 
-### 🔹 Wave Propagation Animation
-
-![Wave Animation](seismograms.png)
-
 ### 🔹 Recorded Seismograms
 
 Three virtual receivers placed at various grid points to record motion.
+
+![Wave Animation](seismograms.png)
+
 
 ## How to Run
 
