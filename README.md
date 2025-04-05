@@ -20,8 +20,7 @@ We use a second-order finite-difference approximation to numerically evolve this
 
 ### 🔹 Final Wave Snapshot
 
-![Wavefield](![Uploading image.png…]()
-)
+![Wavefield](wave_propagation.gif)
 
 ### 🔹 Wave Propagation Animation
 
