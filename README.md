@@ -24,7 +24,7 @@ We use a second-order finite-difference approximation to numerically evolve this
 
 ### 🔹 Wave Propagation Animation
 
-![Wave Animation](wave_propagation.gif)
+![Wave Animation](seismograms.gif)
 
 ### 🔹 Recorded Seismograms
 
